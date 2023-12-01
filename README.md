@@ -1,7 +1,7 @@
 ### IPI_Rover
 
-### 𝐈𝐏 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=𝐈𝐏+𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧+𝐆𝐚𝐭𝐡𝐞𝐫𝐢𝐧𝐠%F0%9F%A4%9F)](https://git.io/typing-svg)
 ![b2b-ip-tracker](https://github.com/sunnamsriram1/IPI_Rover/assets/59051820/27c49168-2474-4fc9-99a9-826227aa8996)
 
 
