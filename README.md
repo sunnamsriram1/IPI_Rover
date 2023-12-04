@@ -13,7 +13,7 @@ All usage procedures should be performed to not to get any error
 ```
 apt install python3
 git clone https://github.com/sunnamsriram1/IPI_Rover.git
-cd IP_Rover
+cd IPI_Rover
 ls
 pip install -r requirements.txt
 python3 finder.py
